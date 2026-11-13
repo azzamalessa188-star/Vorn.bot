@@ -74,7 +74,6 @@
 - **الاسم الرسمي:** Vorn.bot
 - **الفئة:** Cloud Agentic Workspace / Cloud Agent Operating Environment
 - **الوصف المختصر:** بيئة تشغيل سحابية مستمرة لوكلاء الذكاء الاصطناعي.
-- **الشعار اللفظي:** Your bots. Your workspace. Always within reach.
 - **اللون الأساسي للشخصية:** `#38C6AA` (Teal).
 
 ## 2.2 الشعار والأصول البصرية
