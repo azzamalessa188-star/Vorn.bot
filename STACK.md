@@ -10,7 +10,7 @@
 - **المستودع:** https://github.com/azzamalessa188-star/Vorn.bot
 - **الفرع المرجعي:** `main`
 - **الوثيقة المرجعية السابقة:** [vorn_bot .md](https://github.com/azzamalessa188-star/Vorn.bot/blob/main/vorn_bot%20.md)
-- **مستودع الواجهة الأمامية المعتمد:** https://github.com/fortun8te/hydo
+- **مستودع الواجهة الأمامية المعتمد:** https://github.com/milind-soni/OpenMausBot
 
 ---
 
@@ -1343,7 +1343,7 @@ Vorn.bot Web Interface
 ## 26.1 روابط المشروع
 
 - **Vorn.bot Repository:** https://github.com/azzamalessa188-star/Vorn.bot
-- **مستودع الواجهة الأمامية المعتمد (Hydo):** https://github.com/fortun8te/hydo
+- **مستودع الواجهة الأمامية المعتمد (Hydo):** https://github.com/milind-soni/OpenMausBot
 - **OpenAI Platform:** https://platform.openai.com/
 - **OpenAI API Documentation:** https://platform.openai.com/docs
 
